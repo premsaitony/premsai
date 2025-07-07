@@ -25,7 +25,9 @@
 
 ## 📊 My Skill Distribution
 
-![Skill Distribution](skill_distribution_pie_chart.png)
+![Skill Distribution](skill_distribution_final.jpg)
+
+
 
 ---
 
