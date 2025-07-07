@@ -20,6 +20,16 @@
 - Built a contactless interface using hand gestures and eye movements  
 - Mapped gestures to control the mouse using PyAutoGUI  
 - Enhanced accessibility using voice and eye-tracking-based navigation
+ ---
+
+
+## 📬 Let's Connect
+
+- 📧 Email: sigalampatlapremsai@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/premsai)  
+- 💻 [GitHub](https://github.com/premsai)
+
+
 
 ---
 
@@ -31,30 +41,7 @@
 
 ---
 
-## 💻 Technical Skills
 
-**Languages:** Java, Python, C, HTML/CSS, JavaScript, SQL  
-**Developer Tools:** VS Code, Eclipse, Google Cloud Platform, BlueJ  
-**Technologies/Frameworks:** Linux, Jenkins, GitHub, JUnit, WordPress  
-
----
-
-## 🏆 Achievements & Extras
-
-- 🥇 Winner – NGIT Hackathon (2024, 2025)  
-- 🥇 Winner – TechTone’24 Project Presentation  
-- 🎯 Active on LeetCode, GitHub  
-- 🎮 Hobbies: Cricket, movies, video editing
-
----
-
-## 📬 Let's Connect
-
-- 📧 Email: sigalampatlapremsai@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/premsai)  
-- 💻 [GitHub](https://github.com/premsai)
-
----
 
 ## 📈 GitHub Stats
 
