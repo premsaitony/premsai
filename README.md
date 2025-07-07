@@ -45,6 +45,8 @@
 
 ## 📈 GitHub Stats
 
-![Premsai GitHub Stats](https://github-readme-stats.vercel.app/api?username=premsai&show_icons=true&theme=radical)
+
+
+![Premsai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=premsaitony&show_icons=true&theme=radical&cache_seconds=30)
 
 
